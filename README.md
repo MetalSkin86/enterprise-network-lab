@@ -13,7 +13,7 @@ A hands-on enterprise network lab built from scratch in VirtualBox, simulating a
 I built this lab to gain hands-on experience with enterprise IT infrastructure while studying cybersecurity at university, and to be ready to contribute from day one in an IT support/networking role.
 
 ## Full documentation
-— full write-up with screenshots, configuration steps, and troubleshooting for every component above.
+📄 [Enterprise-Network-Lab-Documentation.pdf](https://github.com/MetalSkin86/enterprise-network-lab/blob/main/Enterprise-Network-Lab-Documentation.pdf) — full write-up with screenshots, configuration steps, and troubleshooting for every component above.
 
 ## Key skills demonstrated
 Windows Server & AD DS · Group Policy · OPNsense firewall administration · network segmentation · DNS filtering · IDS/Suricata · WireGuard VPN · systematic troubleshooting
